@@ -3,7 +3,7 @@ Title: What is Elokenz?
 Sort: 1
 */
 
-Raneto is a Knowledgebase platform for [Node.js](http://nodejs.org) that uses static
+Elokenz is a web application for content marketers and bloggers. It's built on [Django](https://www.djangoproject.com/) that uses static
 [Markdown](http://daringfireball.net/projects/markdown) files to power the knowledgebase.
 
 Raneto can be called a "static site generator" of sorts as it doesn't require a database. All
