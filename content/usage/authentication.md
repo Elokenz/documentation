@@ -5,12 +5,7 @@ Sort: 1
 
 ## Authentication
 
-To enable basic Authentication in Raneto is very simple.
+To login, visit our [login page](http://dashboard.elokenz.com/#/login).
 
-In `config.js`
-
-Change `authentication` to `true`.
-
-Change `credentials` to your desired username and password.
-
-Restart the server, if running, and you're ready to roll, privately.
+## Reset Password
+If you have forgotten your password, you can reset it by using the [Reset Password Form](http://www.elokenz.com/accounts/password/reset/).
