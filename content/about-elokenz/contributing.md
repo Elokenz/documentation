@@ -3,7 +3,7 @@ Title: Contributing to Elokenz
 Sort: 2
 */
 
-Want to report a bug, request a feature, or contribute to Elokenz ?
+Want to report a bug, request a feature, or contribute to Elokenz?
 
 
 * [Submit a bug report](https://bitbucket.org/tanzaho/elokenz_development/issues?status=new&status=open)
