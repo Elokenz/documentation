@@ -28,7 +28,6 @@ A **message** is a content that will be shared on social networks. When repostin
 Click on the `Add a message` button. A new form will appear. Type your message in the form and finally hit `Add this message`. Inside your message you can add various variables :
 
 * {{url}} (**required**) : this variable will be replaced by the url of the article
-* {{image}} : _not implemented yet_
 
 
 
