@@ -4,7 +4,7 @@
 var config = module.exports = {
 
   // Your site title (format: page_title - site_title)
-  site_title: 'Elokenz Docs',
+  site_title: 'Elokenz FAQ',
 
   // The base URL of your site (can use %base_url% in Markdown files)
   base_url: '',
@@ -46,7 +46,7 @@ var config = module.exports = {
 
 
   // Add your analytics tracking code (including script tags)
-  analytics: '',
+  analytics: '<script async src="https://www.googletagmanager.com/gtag/js?id=UA-55069259-9"></script><script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);} gtag("js", new Date()); gtag("config", "UA-55069259-9");</script>',
 
   // Set to true to enable the web editor
   allow_editing : false,
