@@ -41,4 +41,19 @@ It can happen that your page is not correcty imported. You can refer to the arti
 
 
 ## 3 - Edit your Repost variations
-Once you are on the main edition window, you can add
+Once you are on the main edition window, you need first to make sure that the social network you want to use is selected, then type your message in the form. Finally, press "Add Message" to save the Repost variation. You can use several variations and Elokenz will rotate time after time and use the most efficient more frequently.
+
+<img src="/images/getting_started/repost_variations.png" alt="Elokenz Repost - Several posts variations" width="400"><center><i>Elokenz Repost - It's better to have several posts variations</i></center><br />
+
+## 4 - Check that everything is good
+
+In theory your Repost should now be well configured and ready for the next slot of publication. However, if you missed one step, a red radio button will warn you that something is not correct.
+
+<img src="/images/getting_started/repost_condition.png" alt="Elokenz Repost - The system indicates you when something is wrong" width="600"><center><i>The system indicates you when something is wrong</i></center><br />
+
+The system will tell you that everything is good and ready when the top left radio button becomes green. You can return to the previous screen by clicking the "I'm done editing this post".
+
+<img src="/images/getting_started/repost_working_indication.png" alt="Elokenz Repost - Repost is correctly configured" width="600"><center><i>Your Repost is correctly configured</i></center><br />
+
+
+
