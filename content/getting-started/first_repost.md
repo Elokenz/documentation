@@ -8,7 +8,7 @@ Creating your first Repost is pretty easy. You first need to log onto [Elokenz](
 ## Online Tour
 If it is the first time you login, an **online tutorial** will appear, and you will be guided along the most important steps.
 
-<img src="/images/getting_started/guided_tour_800.png" alt="Elokenz Online Guided Tour"><center><i>Elokenz Online Guided Tour</i></center><br />
+<img src="/images/getting_started/guided_tour_800.png" alt="Elokenz Online Guided Tour"  width="600"><center><i>Elokenz Online Guided Tour</i></center><br />
 
 Follow the steps and you should have your first Repost correctly setup.
 If you missed the tour or skipped it, read along and you will find basic steps.
