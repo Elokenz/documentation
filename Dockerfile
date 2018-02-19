@@ -15,7 +15,7 @@ RUN curl -SLO "https://github.com/gilbitron/Raneto/archive/$RANETO_VERSION.tar.g
     && tar -xzf "$RANETO_VERSION.tar.gz" -C /raneto --strip-components=1 \
     && rm "$RANETO_VERSION.tar.gz"
 
-RUN apt-get install -y git
+RUN apt-get update && apt-get install -y git
 
 WORKDIR /raneto
 RUN npm update && npm run gulp
