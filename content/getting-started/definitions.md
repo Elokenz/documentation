@@ -60,6 +60,8 @@ When you are creating a Repost, you will be able to specify several possible **p
 
 Elokenz mindset is to prevent **social fatigue** among your followers. This explains why we suggest you to create several variations for a given piece of reposted content.
 
+<img src="/images/getting_started/repost_variations.png" alt="Elokenz Repost - Several posts variations" width="400"><center><i>A single article can have several disctinct Repost variations</i></center><br />
+
 
 ### Social Account
 A **social account** is an account that you can manage on a third-party network (Twitter, Facebook or Linkedin). Prior posting Reposts on one social account, you need to authorize Elokenz to do it (see dedicated section {TODO})

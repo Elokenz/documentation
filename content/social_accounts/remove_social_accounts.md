@@ -1,5 +1,5 @@
 /*
-Title: Disconnect Social Accounts
+Title: Disconnecting Social Accounts
 */
 
 You can remove (disconnect) a social account from Elokenz at any time.
