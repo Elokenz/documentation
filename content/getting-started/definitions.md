@@ -64,7 +64,7 @@ Elokenz mindset is to prevent **social fatigue** among your followers. This expl
 
 
 ### Social Account
-A **social account** is an account that you can manage on a third-party network (Twitter, Facebook or Linkedin). Prior posting Reposts on one social account, you need to authorize Elokenz to do it (see dedicated section {TODO})
+A **social account** is an account that you can manage on a third-party network (Twitter, Facebook or Linkedin). Prior posting Reposts on one social account, you need to authorize Elokenz to do it (see [Connecting a new Social Account](/social_accounts/add_social_account))
 
 ### Social Fatigue
 Social Fatigue is what happens when you post too frequently on social networks, and that your posts are not interestng for your audience. By definition, Elokenz Repost might create some social fatigue among your followers. This is why we have decided to limit this to the maximum by :
@@ -73,7 +73,7 @@ Social Fatigue is what happens when you post too frequently on social networks, 
 * limiting the delay between two consecutive publications of the same content
 
 
-The latter is an **option** that you can tune independently for each social networks. You can find more explainations in the post {TODO}.
+The latter is an **option** that you can tune independently for each social networks. You can find more explainations in the post [How works the Repost Energy](/repost/repost-energy).
 
 ### Sources
 A **Source** is an external website that we use to scan for new articles or content you might have published. Most of the time a source is an RSS Feed or a Sitemap (see dedicated section {{TODO}}).
